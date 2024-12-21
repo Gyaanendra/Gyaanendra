@@ -28,6 +28,10 @@ Here's the updated version with ESP32:
 
 ---
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67666f5f8fe51199da8569f5?variant=dark)](https://roadmap.sh)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Gyaanendra&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
