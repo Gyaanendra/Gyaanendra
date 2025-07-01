@@ -22,11 +22,6 @@ Here's the updated version with ESP32:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gyaanendra&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyaanendra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Roadmap.sh:
----
-[![roadmap.sh](https://roadmap.sh/card/wide/67666f5f8fe51199da8569f5?variant=dark)](https://roadmap.sh)
-
----
 
 ## 🏆 GitHub Trophies
 
