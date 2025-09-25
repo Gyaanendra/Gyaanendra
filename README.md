@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm student of CSE Stusdent with interest in cyber and Ai
+I'm student of CSE Student with interest in cyber and Ai
 
 ## 🌐 Socials:
 
