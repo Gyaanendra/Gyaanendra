@@ -19,15 +19,9 @@ I'm student of CSE Student with interest in cyber and Ai
 ![](https://nirzak-streak-stats.vercel.app/?user=Gyaanendra&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyaanendra&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gyaanendra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Gyaanendra&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
+![Trophies](https://github-profile-trophy-ivory.vercel.app/?username=Gyaanendra&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 ---
 
 
