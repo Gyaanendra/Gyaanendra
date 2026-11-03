@@ -1,11 +1,25 @@
 <div align="center">
 
-  <!-- Monochromatic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=GYANENDRA%20PRAKASH&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20LLM%20Architectures&descSize=15&descColor=A1A1AA&descAlignY=65" width="100%" alt="Gyanendra Prakash" />
+<pre>
+┌────────────────────────────────────────────────────────────────────────┐
+│  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗███╗   ██╗██████╗ ██████╗  │
+│ ██╔════╝ ╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗ │
+│ ██║  ███╗ ╚████╔╝ ███████║██╔██╗ ██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝ │
+│ ██║   ██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗ │
+│ ╚██████╔╝   ██║   ██║  ██║██║ ╚████║███████╗██║ ╚████║██████╔╝██║  ██║ │
+│  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ │
+│                                                                        │
+│  [IDENTITY]     :: Full Stack AI Engineer & Student Builder            │
+│  [AFFILIATION]  :: Bennett University (B.Tech CSE 2024-2028)           │
+│  [STATUS]       :: Open to Internships, Research & Contract Roles      │
+│  [SPECIALTY]    :: Autonomous Agents • Neural Architectures • RAG      │
+│  [PREVIOUS]     :: AI Engineer Intern @ Hypotenuse Analytics           │
+└────────────────────────────────────────────────────────────────────────┘
+</pre>
 
   <!-- Monochromatic Dynamic Typing Subtitle -->
   <a href="https://gyanendra.vihar.in/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;3x+Hackathon+Winner+%7C+ACM+Hackathon+1st+Place;Full+Stack+AI+Engineer+Intern+%40+Hypotenuse+Analytics;B.Tech+CSE+Student+%40+Bennett+University;Edge+Vision+(YOLOv11)+%26+Self-Hosted+Linux+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;3x+Hackathon+Winner+%7C+ACM+Hackathon+1st+Place;Open+to+Internships+%26+AI+Engineering+Roles;B.Tech+CSE+Student+%40+Bennett+University;Edge+Vision+(YOLOv11)+%26+Self-Hosted+Linux+Infra" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -38,12 +52,41 @@
 
 ### ✦ ABOUT
 
-I am a **3rd-year Computer Science & Engineering student at Bennett University** and a **Full Stack AI Engineer** specializing in **autonomous AI agents**, **Retrieval-Augmented Generation (RAG)** systems, and scalable full-stack architectures.
+I am a **3rd-year Computer Science & Engineering student at Bennett University** and a **Full Stack AI Engineer** specializing in **autonomous AI agents**, **Retrieval-Augmented Generation (RAG)** systems, and scalable full-stack architectures. Currently actively building open-source software and open to internship & engineering opportunities.
 
+- **Status** — Available for AI/ML engineering internships, full-stack roles, and research collaborations.
 - **Focus** — Autonomous agentic workflows, fine-tuned transformer pipelines (LLMs/RoBERTa), and high-throughput web systems.
-- **Industry** — Ex-AI Engineer Intern at **Hypotenuse Analytics**, where I architected **Meera**—an enterprise AI agent automating meeting intelligence, summaries, and operational workflows.
+- **Experience** — Previously interned as Full Stack AI Engineer at **Hypotenuse Analytics**, where I architected **Meera**—an enterprise AI agent automating meeting intelligence, summaries, and operational workflows.
 - **Competitive** — **3x Hackathon Winner**, including **1st Place** at the ACM Bennett Chapter Hackathon 2025 and **3rd Place** at the DeepSight Challenge.
 - **Infrastructure** — Self-hoster maintaining a 24/7 dedicated Linux home server and a persistent cloud-based Hermes AI agent.
+
+---
+
+### ✦ SYSTEM ARCHITECTURE
+
+```mermaid
+flowchart LR
+    subgraph INGEST ["01 // Ingestion & Context"]
+        A["User Input / Audio / Judgments"] --> B["Chunking & Normalization"]
+        B --> C["Dense Vector Embeddings"]
+    end
+
+    subgraph MEMORY ["02 // Memory & Knowledge"]
+        C --> D[("Vector DB / Graph Memory")]
+        D --> E["Contextual Retrieval"]
+    end
+
+    subgraph AGENT ["03 // Autonomous Agent Loop"]
+        E --> F["Planner & Prompt Injector"]
+        F --> G["Reasoning LLM / RoBERTa"]
+        G --> H["Self-Correction & Tool Calling"]
+    end
+
+    subgraph OUTPUT ["04 // Delivery"]
+        H --> I["FastAPI Microservices"]
+        I --> J["Production UI / Telemetry"]
+    end
+```
 
 ---
 
@@ -59,17 +102,37 @@ I am a **3rd-year Computer Science & Engineering student at Bennett University**
 
 ---
 
-### ✦ EXPERIENCE & HONORS
+### ✦ EDGE & INFRASTRUCTURE TOPOLOGY
+
+```text
+  +-------------------------------------------------------------------------+
+  |                    EDGE & INFRASTRUCTURE TOPOLOGY                       |
+  +-------------------------------------------------------------------------+
+  |                                                                         |
+  |  [ Edge Hardware ]                   [ Self-Hosted Linux Server ]       |
+  |   Low-Power Embedded Device           24/7 Dedicated Environment        |
+  |   |                                   |                                 |
+  |   +-- Live Camera / RTSP Stream       +-- Dockerized Microservices      |
+  |   +-- OpenCV Frame Preprocessing      +-- Hermes Cloud Agent Host       |
+  |   +-- YOLOv11 Engine (2.6M params)    +-- PostgreSQL & Vector Memory    |
+  |   +-- ONNX Runtime (45 FPS @ 99.49%)  +-- Cloudflare Tunnels & Reverse  |
+  |                                                                         |
+  +-------------------------------------------------------------------------+
+```
+
+---
+
+### ✦ PAST INTERNSHIPS & HONORS
 
 ```yaml
-Work Experience:
-  - Role: Full Stack AI Engineer Intern
+Previous Internships:
+  - Role: Full Stack AI Engineer Intern (Past)
     Company: Hypotenuse Analytics
     Impact: "Architected Meera (autonomous meeting transcription & HR agent); streamlined workflow pipelines."
-  - Role: Backend Intern
+  - Role: Backend Intern (Past)
     Company: Ezlearn
     Impact: "Optimized high-load Django API endpoints; revamped course checkout flow."
-  - Role: AppDev Intern
+  - Role: AppDev Intern (Past)
     Company: nexCraft
     Impact: "Engineered cross-platform mobile client features with React Native."
 
